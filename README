@@ -1,0 +1,7 @@
+This repository includes tutorials created by Dr. Lisa Winter to help
+undergraduate students in the University of Colorado's Solar and
+Space Physics REU program learn Python.
+
+Both an iPython Notebook and Python code are supplied to read sunspot
+data from the internet, plot the data, and perform a simple analysis
+(Gaussian fitting) to find out how long solar cycles last.
